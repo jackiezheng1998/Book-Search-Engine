@@ -52,3 +52,6 @@ npm run develop
 This project is licensed under MIT, for more information please visit [this website](https://opensource.org/licenses/MIT)
 
 ## Mock Up
+![21-mern-homework-demo-01](https://user-images.githubusercontent.com/118042037/219836768-ded16fd0-7d36-4086-9b40-942960417b2c.gif)
+![21-mern-homework-demo-02](https://user-images.githubusercontent.com/118042037/219836787-cc43f406-b18c-40ba-8ffa-ec08c7b9f9c1.gif)
+![21-mern-homework-demo-03](https://user-images.githubusercontent.com/118042037/219836802-4813828e-e22b-48d1-81bb-1225d5938250.gif)
